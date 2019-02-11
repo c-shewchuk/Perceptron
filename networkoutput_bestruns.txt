@@ -1,0 +1,322 @@
+CMPE 452 Assignment 1
+Curtis Shewchuk, NetID: 14cms13
+SN: 10189026
+
+""" MAIN TEXT FILE """
+The above comments were typed in after the Neural Network output the values below
+
+Starting Kernels
+[-8. -3. -9.]
+[-2.  6. -1.]
+[ -5.  -5. -10.]
+[ 7.  5. -8.]
+[-7. -3. -9.]
+[-3. -2.  9.]
+[ 10.   7. -10.]
+Ending kernel weights after training
+[-367.227   926.7895 -534.198 ]
+[ 645.139 -773.756  140.882]
+[ 173.35023  -380.258595   -5.930625]
+[ 955.5575 -586.7258  278.569 ]
+[ 370.13225 -897.97435 -226.62975]
+[-127.98825   259.501565  184.08215 ]
+[-2005.48855   505.61085   685.39945]
+Test Data Point 1
+Did not fire correctly
+Calculated Output
+0.0 0.0 0.0
+Expected Output
+1.0 0.0 0.0
+Test Data Point 2
+Correct Output
+Calculated Output
+1.0 0.0 0.0
+Expected Output
+1.0 0.0 0.0
+Test Data Point 3
+Correct Output
+Calculated Output
+1.0 0.0 0.0
+Expected Output
+1.0 0.0 0.0
+Test Data Point 4
+Did not fire correctly
+Calculated Output
+0.0 0.0 0.0
+Expected Output
+1.0 0.0 0.0
+Test Data Point 5
+Correct Output
+Calculated Output
+1.0 0.0 0.0
+Expected Output
+1.0 0.0 0.0
+Test Data Point 6
+Did not fire correctly
+Calculated Output
+1.0 0.0 1.0
+Expected Output
+1.0 0.0 0.0
+Test Data Point 7
+Did not fire correctly
+Calculated Output
+1.0 0.0 1.0
+Expected Output
+1.0 0.0 0.0
+Test Data Point 8
+Correct Output
+Calculated Output
+1.0 0.0 0.0
+Expected Output
+1.0 0.0 0.0
+Test Data Point 9
+Did not fire correctly
+Calculated Output
+0.0 0.0 0.0
+Expected Output
+1.0 0.0 0.0
+Test Data Point 10
+Correct Output
+Calculated Output
+1.0 0.0 0.0
+Expected Output
+1.0 0.0 0.0
+Test Data Point 11
+Correct Output
+Calculated Output
+1.0 0.0 0.0
+Expected Output
+1.0 0.0 0.0
+Test Data Point 12
+Correct Output
+Calculated Output
+1.0 0.0 0.0
+Expected Output
+1.0 0.0 0.0
+Test Data Point 13
+Correct Output
+Calculated Output
+1.0 0.0 0.0
+Expected Output
+1.0 0.0 0.0
+Test Data Point 14
+Did not fire correctly
+Calculated Output
+0.0 0.0 0.0
+Expected Output
+1.0 0.0 0.0
+Test Data Point 15
+Did not fire correctly
+Calculated Output
+0.0 0.0 1.0
+Expected Output
+1.0 0.0 0.0
+Test Data Point 16
+Correct Output
+Calculated Output
+0.0 1.0 0.0
+Expected Output
+0.0 1.0 0.0
+Test Data Point 17
+Correct Output
+Calculated Output
+0.0 1.0 0.0
+Expected Output
+0.0 1.0 0.0
+Test Data Point 18
+Correct Output
+Calculated Output
+0.0 1.0 0.0
+Expected Output
+0.0 1.0 0.0
+Test Data Point 19
+Correct Output
+Calculated Output
+0.0 1.0 0.0
+Expected Output
+0.0 1.0 0.0
+Test Data Point 20
+Correct Output
+Calculated Output
+0.0 1.0 0.0
+Expected Output
+0.0 1.0 0.0
+Test Data Point 21
+Correct Output
+Calculated Output
+0.0 1.0 0.0
+Expected Output
+0.0 1.0 0.0
+Test Data Point 22
+Correct Output
+Calculated Output
+0.0 1.0 0.0
+Expected Output
+0.0 1.0 0.0
+Test Data Point 23
+Correct Output
+Calculated Output
+0.0 1.0 0.0
+Expected Output
+0.0 1.0 0.0
+Test Data Point 24
+Correct Output
+Calculated Output
+0.0 1.0 0.0
+Expected Output
+0.0 1.0 0.0
+Test Data Point 25
+Correct Output
+Calculated Output
+0.0 1.0 0.0
+Expected Output
+0.0 1.0 0.0
+Test Data Point 26
+Did not fire correctly
+Calculated Output
+0.0 0.0 0.0
+Expected Output
+0.0 1.0 0.0
+Test Data Point 27
+Correct Output
+Calculated Output
+0.0 1.0 0.0
+Expected Output
+0.0 1.0 0.0
+Test Data Point 28
+Did not fire correctly
+Calculated Output
+0.0 0.0 0.0
+Expected Output
+0.0 1.0 0.0
+Test Data Point 29
+Did not fire correctly
+Calculated Output
+0.0 0.0 0.0
+Expected Output
+0.0 1.0 0.0
+Test Data Point 30
+Correct Output
+Calculated Output
+0.0 1.0 0.0
+Expected Output
+0.0 1.0 0.0
+Test Data Point 31
+Correct Output
+Calculated Output
+0.0 0.0 1.0
+Expected Output
+0.0 0.0 1.0
+Test Data Point 32
+Correct Output
+Calculated Output
+0.0 0.0 1.0
+Expected Output
+0.0 0.0 1.0
+Test Data Point 33
+Did not fire correctly
+Calculated Output
+0.0 0.0 0.0
+Expected Output
+0.0 0.0 1.0
+Test Data Point 34
+Correct Output
+Calculated Output
+0.0 0.0 1.0
+Expected Output
+0.0 0.0 1.0
+Test Data Point 35
+Did not fire correctly
+Calculated Output
+1.0 0.0 0.0
+Expected Output
+0.0 0.0 1.0
+Test Data Point 36
+Correct Output
+Calculated Output
+0.0 0.0 1.0
+Expected Output
+0.0 0.0 1.0
+Test Data Point 37
+Did not fire correctly
+Calculated Output
+1.0 0.0 0.0
+Expected Output
+0.0 0.0 1.0
+Test Data Point 38
+Correct Output
+Calculated Output
+0.0 0.0 1.0
+Expected Output
+0.0 0.0 1.0
+Test Data Point 39
+Correct Output
+Calculated Output
+0.0 0.0 1.0
+Expected Output
+0.0 0.0 1.0
+Test Data Point 40
+Correct Output
+Calculated Output
+0.0 0.0 1.0
+Expected Output
+0.0 0.0 1.0
+Test Data Point 41
+Correct Output
+Calculated Output
+0.0 0.0 1.0
+Expected Output
+0.0 0.0 1.0
+Test Data Point 42
+Correct Output
+Calculated Output
+0.0 0.0 1.0
+Expected Output
+0.0 0.0 1.0
+Test Data Point 43
+Did not fire correctly
+Calculated Output
+0.0 1.0 1.0
+Expected Output
+0.0 0.0 1.0
+Test Data Point 44
+Correct Output
+Calculated Output
+0.0 0.0 1.0
+Expected Output
+0.0 0.0 1.0
+Test Data Point 45
+Correct Output
+Calculated Output
+0.0 0.0 1.0
+Expected Output
+0.0 0.0 1.0
+Precisions and Recalls
+ First Wheat Class
+Precision: 83.3333333333 Recall: 66.6666666667
+Second Wheat Class
+Precision: 92.3076923077 Recall: 80.0
+Third Wheat Class
+Precision: 80.0 Recall: 80.0
+CONFUSION MATRICIES
+
+Wheat Class 1
+ TP: 10 FP: 2
+ FN: 5 TN: 28
+Wheat Class 2
+ TP: 12 FP: 1
+ FN: 3 TN: 29
+Wheat Class 3
+ TP: 12 FP: 3
+ FN: 3 TN: 27
+
+ Training Terminating condition is based on error threshold, or a maximum of 6500 iterations. Error threshold is 5, 
+ and the error checking can be seen in the main code, titled in comments.
+
+ """ USING SKLEARN TO IMPLEMENT THE SAME NETWORK """
+ I used SKLEARN, a Python tool for implementing Neural Networks
+ Below is the actual output (minus the headers which I have added) from running my Perceptron_tool.py
+            Precision   Recall
+Output 1 66.6666666667  93.3333333333
+Output 2 86.6666666667  86.6666666667
+Output 3 100.0          80.0
