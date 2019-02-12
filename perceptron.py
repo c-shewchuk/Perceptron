@@ -2,7 +2,7 @@
 CMPE 452 Assignment 1
 Curtis Shewchuk
 14cms13
-SN: 10189026
+
 Python file that contains some of the function that are called in the a1_452.py, the bulk of
 my solution to assignment 1.
 """
