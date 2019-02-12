@@ -2,7 +2,6 @@
 CMPE 452 Assignment 1
 Curtis Shewchuk
 14cms13
-SN: 10189026
 A simple 7 input perceptron network that is used to classify three different kinds of wheat.
 We use a 3 by 7 matrix of weights that connect the 7 input layers to the three output perceptron neurons. The 7 input
 data points are multiplied by the weight matrix (denoted input_kernels) to produce a 1x3 vector, with each index representing the 
