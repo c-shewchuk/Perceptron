@@ -1,6 +1,5 @@
 # CMPE 452 Assignment 1
 ## By Curtis Shewchuk
-### NetID; 14cms13 SN: 10189026
 
 I have submitted three python files and the textfile specified in the assignment descrption. All files should remain in the same directory. 
 
