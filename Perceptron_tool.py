@@ -2,7 +2,7 @@
 CMPE 452 Assignment 1
 Curtis Shewchuk
 14cms13
-SN: 10189026
+
 """
 from sklearn import linear_model
 from sklearn.metrics import precision_score
