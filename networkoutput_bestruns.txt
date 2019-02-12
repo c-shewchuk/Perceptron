@@ -1,6 +1,5 @@
 CMPE 452 Assignment 1
 Curtis Shewchuk, NetID: 14cms13
-SN: 10189026
 
 """ MAIN TEXT FILE """
 The above comments were typed in after the Neural Network output the values below
